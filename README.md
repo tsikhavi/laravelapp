@@ -6,3 +6,4 @@
 4. Vite for bundling data
 5. Google SMTP
 6. Laravel 10
+7. Database Mysql
